@@ -36,17 +36,23 @@
     height: 40px;
     padding: 0 4px 0 4px;
     border-radius: 8px;
-    border: 1px solid #e3e5e7;
-    background-color: #f1f2f3;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #fff;
     /* 垂直居中 */
     display: flex;
     align-items: center;
     position: relative;
+    /* 过渡动画 */
+    transition: all 0.3s;
 }
 
 /* 悬停效果 */
 .center-search-container:hover {
     background-color: #fff;
+    /* 鼠标放上去时，文字和图标变回深灰色 */
+    color: #18191c;
+    border-color: #fff;
 }
 
 /* 搜索框内容容器（自适应布局） */
@@ -85,8 +91,9 @@
 
 /* 悬浮动画 */
 .center-search-container .nav-search-button:hover {
-    background-color: #e3e4e5;
+    background-color: rgba(0, 0, 0, 0.1); 
 }
+
 
 /* 右侧入口区域 */
 .right-entry {
