@@ -505,11 +505,9 @@
 /* 轮播列表容器 */
 .carousel-area .carousel-list {
     display: flex;
-    /* 5张图片，所以宽度是500% */
     width: 500%; 
     height: 100%;
-    /* 执行动画：名称 loop，时长 12s，无限循环 */
-    animation: loop 20s infinite; 
+    transition: transform 0.5s ease;
 }
 
 /* 单个轮播项 (包含图片和标题) */
@@ -576,51 +574,7 @@
     z-index: 30;
 }
 
-/* css自动轮播*/
 
-/* 1. 图片移动动画 (5张图) */
-@keyframes loop {
-    /* 0~16%: 第1张 */
-    0%, 16% { transform: translateX(0); }
-    20%, 36% { transform: translateX(-20%); }
-    40%, 56% { transform: translateX(-40%); }
-    60%, 76% { transform: translateX(-60%); }
-    80%, 96% { transform: translateX(-80%); }
-    /* 回到第一张 */
-    100% { transform: translateX(0); }
-}
-
-/* 2. 小圆点激活动画 */
-@keyframes DotLoop {
-    /* 在显示对应图片的时间段内(约4秒中的前3.2秒)，圆点变大变白 */
-    0%, 16% {
-        width: 14px;
-        height: 14px;
-        margin: 1px;
-        background-color: #fff;
-    }
-    /* 剩下时间恢复原状 */
-    20%, 100% {
-        width: 8px;
-        height: 8px;
-        margin: 4px;
-        background-color: #fff6;
-    }
-}
-
-/* 3. 5个小圆点的延迟设置  */
-/* 间隔 = 4秒 */
-.carousel-area .tools li:nth-child(1) { animation-delay: 0s; }
-.carousel-area .tools li:nth-child(2) { animation-delay: 4s; }
-.carousel-area .tools li:nth-child(3) { animation-delay: 8s; }
-.carousel-area .tools li:nth-child(4) { animation-delay: 12s; }
-.carousel-area .tools li:nth-child(5) { animation-delay: 16s; }
-
-/* 4. 鼠标放上去暂停轮播 */
-.carousel-area:hover .carousel-list,
-.carousel-area:hover .tools li {
-    animation-play-state: paused;
-}
 
 .carousel-area .tools ul {
     /* 元素会变成块并且横向排布 */
@@ -636,8 +590,14 @@
     border-radius: 50%;
     background-color: #fff6;
     cursor: pointer;
-    /* 绑定DotLoop动画  */
-    animation: DotLoop 20s infinite;
+    transform: all 0.3s ease;
+}
+
+.carousel-area .tools li.active {
+    width: 14px;
+    height: 14px;
+    margin: 1px; 
+    background-color: #fff;
 }
 
 
