@@ -1,22 +1,20 @@
-/* 导航总区域 */
 .bili-nav {
     display: flex;
     align-items: center;
     width: 100%;
     padding: 24px;
-    /* 防止元素溢出 */
     box-sizing: border-box;
 }
-/* 导航 上部 左侧入口 */
+
 .left-entry {
     display:flex;
 }
 
-/* 操作文本 */
+
 .left-entry li a {
     color:white;
 }
-/* 操作块 li中有a和svg 所以还是要用flex把他们垂直对齐*/
+
 .left-entry li{
     display: flex;
     align-items: center;
@@ -24,14 +22,13 @@
     color: white;
     margin-right: 15px; 
 }
-/* 给svg加个右边距 */  
+
 .left-entry svg {
     margin-right: 6px;
 }
 
-/* 中间的搜索区域 */
+
 .center-search-container {
-    /* 自适应屏幕宽度 */
     flex: 1;
     height: 40px;
     padding: 0 4px 0 4px;
@@ -39,117 +36,94 @@
     border: 1px solid rgba(255, 255, 255, 0.2);
     background-color: rgba(255, 255, 255, 0.2);
     color: #fff;
-    /* 垂直居中 */
     display: flex;
     align-items: center;
     position: relative;
-    /* 过渡动画 */
     transition: all 0.3s;
 }
 
-/* 悬停效果 */
 .center-search-container:hover {
     background-color: #fff;
-    /* 鼠标放上去时，文字和图标变回深灰色 */
     color: #18191c;
     border-color: #fff;
 }
 
-/* 搜索框内容容器（自适应布局） */
 .center-search-container .nav-search-content {
     display: flex; 
     height: 20px; 
     width: 100%; 
-    /* 输入内容与搜索框边缘的左右间距 */
     padding: 0 8px; 
 }
 
-/* 搜索框样式 */
+
 .nav-search-content .nav-search-input {
     flex: 1; 
-    /* 背景透明 */
     background-color: transparent; 
     line-height: 20px; 
     overflow: hidden; 
-    /* 右侧预留空间，避免文字与按钮重叠 */
     padding-right: 8px; 
 }
 
-/* 搜索框按钮样式 */
 .center-search-container .nav-search-button {
     display: flex; 
     align-items: center; 
-    /* 水平居中 */
     justify-content: center; 
     line-height: 32px;
     border-radius: 6px;
     cursor: pointer;
     padding: 10px;
-    /* 动画过渡 */
     transition: background-color .3s;
 }
 
-/* 悬浮动画 */
 .center-search-container .nav-search-button:hover {
     background-color: rgba(0, 0, 0, 0.1); 
 }
 
 
-/* 右侧入口区域 */
 .right-entry {
     margin-left: 10px;
     display: flex;
     align-items: center;
 }
 
-/* 头像外层容器 */
 .right-entry .header-avatar {
     height: 50px;
     width: 50px;
-    /* 避免贴边 */
     padding-right: 10px;
     position: relative;
 }
 
-/* 头像核心元素 */
 .right-entry .header-avatar a {
     position: absolute;
     top: 6px;
     left: 10px;
     width: 36px;
     height: 36px;
-    /* 行高和高度相同可以居中,因为正好顶着 */
     line-height: 36px;
     border-radius: 50%;
     background-color: #00aeec;
-    /* 让内部的span水平居中 */
     display: flex;
     justify-content: center;
     border: 2px solid #fff;
     color: #fff;
 }
 
-/* 外面盒子控制间距 */
 .right-entry .right-entry-item {
     min-width: 50px;
     margin-right: 4px;
 }
 
-/* 内部a下两个元素竖着对齐 */
 .right-entry .right-entry-item a {
     display: flex;
-    /* 纵向排列 */
     flex-direction: column;
     align-items: center;
     color: #fff;
 }
 
-/* 调整字体 */
 .right-entry-item a span {
     font-size: 13px;
 }
 
-/*投稿按钮*/
 .right-entry .upload {
     display: flex;
     align-items: center;
@@ -162,53 +136,40 @@
     background-color: #fb7299;
     margin-left: 10px;
 }
-/* 投稿按钮文字 */
+
 .right-entry .upload span {
     margin-left: 5px;
 }
 
-/* Banner区域 */
-
-/* 首先是要压住nav ,图层要在上面 */
 .bili-nav {
     position: absolute;
     top: 0;
-    /* 提升导航栏层级 */
     z-index: 1000;
 }
 
-
-/* banner外层容器 */
 .bili-banner {
     position: relative;
     height: 155px;
     width: 100%;
-    /* banner图片很宽,可能溢出,所以要隐藏 */
     overflow: hidden;
 }
 
-/* banner背景图 */
 .bili-banner img {
-    /* 铺满banner容器 */
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    /* 等比例缩放 */
     object-fit: cover;
 }
 
-/* logo容器 */
 .bili-banner .logo {
     width: 100%;
     height: 100%;
     display: flex;
-    /* logo贴banner底下 */
     align-items: flex-end;
 }
 
-/* 固定logo位置 */
 .bili-banner .logo a {
     position: relative; 
     width: 162px;
@@ -216,7 +177,6 @@
     margin-bottom: 10px;
 }
 
-/* banner渐变 */
 .bili-banner .mask {
     position: absolute;
     top: 0;
@@ -226,9 +186,6 @@
     background-color: linear-gradient(rgba(0,0,0,.4) , transparent);
 }
 
-/* 频道区域 */
-
-/* 频道外层容器 */
 .bili-channel {
     height: 110px;
     padding: 0 60px;
@@ -236,32 +193,25 @@
     align-items: center;
 }
 
-/* 图标组容器 */
 .bili-channel .channel-icons {
-    /* 多个图标垂直居中 */
     display: flex;
     align-items: center;
 }
 
-/* 单个频道 */
 .bili-channel .channel-icons a {
     display: flex;
-    /* 纵向排列，垂直居中 */
     flex-direction: column;
     justify-content: center;
     margin-right: 24px;
 }
 
-/* 图标背景容器 */
 .bili-channel .icon-bg {
-    /* 背景尺寸限制 */
+
     width: 46px;
     height: 46px;
-    /* 让svg在中间 */
     display: flex;
     align-items: center;
     justify-content: center;
-    /* 背景是圆的 */
     border-radius: 50%;
     margin-bottom: 6px;
 }
@@ -278,36 +228,29 @@
     background-color: #59ca73;
 }
 
-/* 固定图标尺寸 */
 .bili-channel .icon-bg svg {
     width: 25px;
     height: 25px;
 }
 
-/* 频道文字居中 */
 .bili-channel span {
     text-align: center;
 }
 
-/* 右侧网格外层容器 */
 .bili-channel .right-channel-container {
     width: 100%;
     display: flex;
     align-items: center;
 }
 
-/* grid网格容器 */
 .bili-channel .channel-items_left {
     display: grid;
-    /* 11列等宽网格 */
     grid-template-columns: repeat(11,1fr);
     gap: 10px;
     width: 100%;
 }
 
-/* 网格内部单个频道 */
 .bili-channel .channel-items_left a {
-    /* grid自动块级化子项，无需设置display */
     height: 26px;
     line-height: 26px;
     background-color: #f6f7f8;
@@ -317,56 +260,43 @@
     color: #61666d;
 }
 
-/* 最右侧网格容器 */
 .bili-channel .channel-items_right {
     width: 240px;
     display: grid;
-    /* 两行网格 */
     grid-template-rows: repeat(2,1fr);
-    /* 先填充列再填充行 */
     grid-auto-flow: column;
     row-gap: 10px;
-    /* 禁止被挤压 */
     flex-shrink: 0;
     margin-left: 30px;
-    /* 分割线 */
     border-left: 1px solid #e3e5e7;
 }
 
-/* 最右侧网格单个频道 */
 .channel-items_right a {
     width: 100%;
     height: 28px;
-    /* 文字间隙 */
     letter-spacing: 2px;
     display: flex;
     align-items: center;
-    /* 往右边靠 */
     justify-content: flex-end;
 }
 
-/* svg图标 */
 .channel-items_right a svg {
     width: 20px;
     height: 20px;
-    /* 与文字有间距 */
     margin-right: 4px;
     fill: #61666d;
 }
 
-/* 文字颜色 */
 .channel-items_right span {
     color: #61666d;
 }
 
-/* 推荐列表外层容器 */
 .main {
     width: 100%;
     padding: 0 60px;
     box-sizing: border-box;
 }
 
-/* 推荐列表网格容器 */
 .main .recommended-container {
     display: grid;
     grid-template-columns: repeat(5, 1fr); 
@@ -374,61 +304,47 @@
     width: 100%;
 }
 
-/* 视频卡片图片容器 */
 .main .recommended-card .card-image {
     position:relative;
-    /* 给容器一个圆角,这样图片和遮罩就直接裁剪 */
     border-radius: 6px;
-    /* 超出该容器,隐藏 */
     overflow: hidden;
     width: 100%;
-    /* 强制保持 16:9 的比例，这样所有封面高度都会严格一致 */
     aspect-ratio: 16 / 9; 
 }
 
-/* 视频封面图片 */
 .main .card-image img {
     width: 100%;
     height: 100%;
-    /* 确保图片填满容器且不变形 */
     object-fit: cover; 
 }
 
-/* 遮罩层容器 */
 .card-image .image-mask {
-    /* 绝对定位方便覆盖,从而达到mask的效果 */
     position: absolute;
     bottom: 0;
     left: 0;
     padding: 16px 8px 6px;
-    /* 遮罩的尺寸也是撑满整个容器但是不要溢出 */
     width: 100%;
     box-sizing: border-box;
     height: 38px;
-    /* 阴影 */
     background-image: linear-gradient(180deg ,rgba(0,0,0,0) 0%, rgba(0,0,0,.8) 100%);
     color: #fff;
     font-size: 13px;
-    /* 让mask中的信息在一行 */
     display: flex;
     align-items: center;
 }
 
-/* 遮罩层左侧 */
 .card-image .image-mask .stats-left {
-    /* 把右侧的时长顶到遮罩层最右侧 */
     flex: 1;
     display: flex;
     align-items: center;
 }
 
-/* 播放量和弹幕数 */
 .image-mask .stats-left .stats-item {
     display: flex;
     align-items: center;
     margin-right: 12px;
 }
-/* 遮罩层内svg图标 */
+
 .image-mask svg {
     width: 18px;
     height: 18px;
@@ -436,23 +352,18 @@
     margin-right: 2px;
 }
 
-/* 保证底部信息和封面的间距 */
+
 .card-info {
-    /* 加8px上内边距），无论标题几行，和封面都有间距 */
     padding-top: 8px;
-    /* 加左右内边距，和封面左右对齐 */
     padding-left: 2px;
     padding-right: 2px;
 }
 
-/* 视频标题 */
 .card-info h3 {
     line-height: 22px;
     padding-right: 16px;
     font-size: 15px;
-    /* 超出显示区域要隐藏并且2行文本后显示 '...' */
     overflow: hidden;
-    /* 截断设置 */
     display: -webkit-box;
     -webkit-box-orient: vertical;
     line-break: anywhere;
@@ -460,7 +371,6 @@
     height: 44px;
 }
 
-/* 标题下方数据容器 */
 .info-bottom {
     margin-top: 4px;
     display: flex;
@@ -468,41 +378,32 @@
     font-size: 13px;
 }
 
-/* up主信息 */
 .info-bottom a {
     color: #9499a0;
     display: flex;
     align-items: center;
 }
 
-/* svg图标 */
 .info-bottom svg {
     width: 17px;
     height: 17px;
     margin-right: 2px;
 }
 
-/* 发布日期 */
 .info-bottom .info-date {
-    margin-left: 5px;
+    argin-left: 5px;
 }
 
-/* 轮播图区域位置 */
 
-/* 轮播图容器 */
 .recommended-container .carousel-area {
-    /* 第一行（列）到第三行（列）左开右闭 */
     grid-column: 1 / 3;
     grid-row: 1 / 3;
     border-radius: 6px;
     overflow: hidden;
-    /* 为内部的mask和tools做定位参照 */
     position: relative;
-    /* 新增 */
     font-size: 0; 
 }
 
-/* 轮播列表容器 */
 .carousel-area .carousel-list {
     display: flex;
     width: 500%; 
@@ -510,16 +411,12 @@
     transition: transform 0.5s ease;
 }
 
-/* 单个轮播项 (包含图片和标题) */
 .carousel-area .carousel-item {
-    /* 5张图平分宽度 */
     width: 20%; 
     height: 100%;
-    /* 为内部的标题做定位参考 */
     position: relative; 
 }
 
-/* 轮播标题样式 */
 .carousel-area .carousel-title {
     position: absolute;
     bottom: 50px;
@@ -528,16 +425,11 @@
     line-height: 24px;
     font-weight: bold;
     color: #fff;
-    /* 确保层级高于 mask (mask是10) */
     z-index: 20;   
-    /* 增加文字阴影，保证清晰度 */
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.85);
 }
 
-
-/* 轮播图图片 */
 .carousel-area .carousel-item img {
-    /* 确保轮播图百分百铺满容器 */
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -545,45 +437,34 @@
     
 }
 
-/* 轮播图渐变遮罩 */
 .carousel-area .mask {
     width: 100%;
     height: 50%;
-    /* 遮罩层就是要完全覆盖图片和tool那些,因此绝对定位到0,然后撑满*/
     position: absolute;
     bottom: 0;
     left: 0;
-    /* 从轮播图底部开始渐变 */
     background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 60%, rgba(0, 0, 0, 0.8) 100%);
     border-radius: 6px;
-    /* 比图片高，但比标题(20)和按钮(30)低 */
     z-index: 10; 
-    /* 让鼠标穿透遮罩，不影响点击 */
     pointer-events: none; 
 }
 
-/* 轮播图工具区 */
 .carousel-area .tools {
     width: 100%;
     position: absolute;
     bottom: 20px;
     left: 0;
-    /* 避免文字贴容器边缘 */
     padding: 0 15px;
     box-sizing: border-box;
     z-index: 30;
 }
 
 
-
 .carousel-area .tools ul {
-    /* 元素会变成块并且横向排布 */
     display: flex;
 }
 
-/* 单个轮播指示器 */
 .carousel-area .tools li {
-    /* 未激活小圆点的基础样式 */
     width: 8px;
     height: 8px;
     margin: 4px;
@@ -601,15 +482,12 @@
 }
 
 
-/* 切换按钮容器 */
 .carousel-area .tools .buttons {
-    /* 将按钮固定在右下角 */
     position: absolute;
     bottom: 23px;
     right: 15px;
 }
 
-/* 切换按钮基础样式 */
 .tools button {
     width: 28px;
     height: 28px;
@@ -618,58 +496,47 @@
     margin-right: 8px;
     background-color: #ffffff1a;
     cursor: pointer;
-    /* 悬浮变色 */
     transition: background-color .5s;
 }
 
-/* 选中.tools容器里最后一个button时，去掉右边距 */
 .tools button:last-child {
     margin-right: 0;
 }
 
-/* 按钮内的svg图标  */
 .tools svg {
     width: 12px;
     height: 12px;
     color: #fff;
 }
 
-/* 按钮悬停交互 */
 .tools button:hover {
     background-color: #fff6;
 }
 
-/* 侧边栏容器 */
 .sidebar {
-    /* 固定侧边栏位置 */
     position: fixed;
     bottom: 40px; 
     right: 10px;  
-    /* 避免侧边栏被覆盖 */
     z-index: 1000; 
     display: flex;
     flex-direction: column;
-    gap: 8px; /* 按钮之间的间距 */
+    gap: 8px; 
 }
 
-/* 侧边栏按钮通用样式 */
 .sidebar .side-btn {
     width: 46px;
     height: 48px;
     background-color: #fff;
     border: 1px solid #e3e5e7;
-    /* 圆角 */
     border-radius: 8px; 
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    /* 添加过渡动画 */
     transition: all 0.3s ease; 
 }
 
-/* 按钮内链接样式 */
 .sidebar .side-btn a {
     display: flex;
     flex-direction: column;
@@ -678,7 +545,6 @@
     color: #505050;
 }
 
-/* SVG 图标样式 */
 .sidebar .side-btn svg {
     width: 20px;
     height: 20px;
@@ -686,29 +552,22 @@
     transition: transform 0.3s; 
 }
 
-/* 按钮文字样式 */
 .sidebar .side-btn .btn-text {
     font-size: 12px;
     line-height: 14px;
-    /* 稍微缩小文字 */
     transform: scale(0.9); 
 }
 
-/* --- 鼠标悬停交互效果 --- */
-
-/* 悬停时背景变色 */
 .sidebar .side-btn:hover {
     background-color: #00aeec; 
     border-color: #00aeec;
 }
 
-/* 悬停时文字和图标变白 */
 .sidebar .side-btn:hover a {
     color: #fff;
 }
 
 
-/* 顶部按钮悬停时图标向上跳动一下 */
 .sidebar .side-btn.go-top:hover svg {
     transform: translateY(-3px);
 }

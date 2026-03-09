@@ -1,139 +1,130 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // 1. 获取DOM元素（精准匹配你的结构）
+    // 1. 获取DOM元素
     const carouselList = document.querySelector('.carousel-area .carousel-list');
     const prevBtn = document.querySelector('.prev-btn');
     const nextBtn = document.querySelector('.next-btn');
     const indicatorItems = document.querySelectorAll('.indicator li');
     const carouselArea = document.querySelector('.carousel-area');
 
-    // 2. 核心配置（匹配你的5张轮播图）
-    const itemCount = 5; // 固定5张图
-    const singleWidth = 20; // 单张占20%（100/5）
-    let currentIndex = 0; // 默认第一张
-    let autoPlayTimer = null;
-    const autoPlayInterval = 3000; // 3秒切换
-    let isAnimating = false; // 动画锁（防止重复触发）
+    // 如果找不到元素，提前退出避免报错
+    if (!carouselList) return;
 
-    // 3. 核心方法：更新轮播位置（修复强制重绘+过渡控制）
+    // 2. 无缝轮播核心：克隆首尾节点
+    const originalItems = Array.from(carouselList.children);
+    const realCount = originalItems.length; // 实际图片数量 (通常是 5)
+
+    // 克隆第一张放到最后，克隆最后一张放到最前
+    const firstClone = originalItems[0].cloneNode(true);
+    const lastClone = originalItems[realCount - 1].cloneNode(true);
+    carouselList.appendChild(firstClone);
+    carouselList.insertBefore(lastClone, originalItems[0]);
+
+    // 3. 动态计算宽度核心配置
+    const totalCount = carouselList.children.length; // 加上克隆后总数 (通常是 7)
+    const singleWidth = 100 / totalCount; // 每次移动的精确百分比
+    
+    // 覆盖 CSS 的宽度：强行设置容器总宽和子元素宽度
+    carouselList.style.width = `${totalCount * 100}%`; 
+    Array.from(carouselList.children).forEach(item => {
+        item.style.width = `${singleWidth}%`;
+    });
+
+    // 4. 状态变量
+    let currentIndex = 1; // 因为头部加了克隆节点，所以真实的第1张索引变成了 1
+    let autoPlayTimer = null;
+    const autoPlayInterval = 3000; 
+    let isAnimating = false; 
+
+    // 初始化位置：默默移动到真实的第1张
+    updateCarousel(true);
+
+    // 5. 核心方法：更新轮播位置
     function updateCarousel(withoutTransition = false) {
-        // 动画中不执行
-        if (isAnimating) return;
-        
-        // 控制过渡动画：true=无过渡（瞬间切换），false=有过渡（丝滑）
         if (withoutTransition) {
             carouselList.style.transition = 'none';
         } else {
-            carouselList.style.transition = 'transform 0.5s ease';
+            carouselList.style.transition = 'transform 0.5s ease-in-out';
         }
-        
-        // 设置平移位置（核心动效）
+        // 移动轨道
         carouselList.style.transform = `translateX(-${currentIndex * singleWidth}%)`;
-        
-        // 更新指示器激活态
-        indicatorItems.forEach((li, index) => {
-            li.classList.toggle('active', index === currentIndex);
-        });
-
-        // 强制重绘（关键：解决过渡失效问题）
-        carouselList.offsetHeight; // 替代void，兼容性更好
+        // 更新小圆点
+        updateIndicators();
     }
 
-    // 4. 下一张（修复动画时序+解锁逻辑）
+    // 6. 更新指示器状态
+    function updateIndicators() {
+        indicatorItems.forEach(li => li.classList.remove('active'));
+        // 算出对应的小圆点索引
+        let realIndex = currentIndex - 1;
+        // 容错处理：防止指示器越界报错
+        if (realIndex < 0) realIndex = realCount - 1;
+        if (realIndex >= realCount) realIndex = 0;
+
+        if (indicatorItems[realIndex]) {
+            indicatorItems[realIndex].classList.add('active');
+        }
+    }
+
+    // 7. 下一张 (包含无缝拉回处理)
     function goToNext() {
         if (isAnimating) return;
-        isAnimating = true; // 上锁
+        isAnimating = true;
 
-        // 最后一张切第一张：无缝逻辑
-        if (currentIndex === itemCount - 1) {
-            // 步骤1：先滑到"假位置"（超出容器，视觉上是正向切）
-            carouselList.style.transition = 'transform 0.5s ease';
-            carouselList.style.transform = `translateX(-${(itemCount) * singleWidth}%)`;
-            
-            // 步骤2：动画结束后，瞬间重置到第一张（无过渡）
+        currentIndex++;
+        updateCarousel(false); // 有过渡滑向下一张
+
+        // 如果滑到了末尾的【假首图】
+        if (currentIndex === totalCount - 1) {
             setTimeout(() => {
-                currentIndex = 0;
-                updateCarousel(true); // 无过渡重置
-                isAnimating = false; // 解锁
-            }, 500); // 匹配过渡时长0.5s
+                currentIndex = 1; // 瞬间将索引改成【真首图】
+                updateCarousel(true); // 无过渡拉回，欺骗眼睛
+                isAnimating = false; // 解除动画锁
+            }, 500); // 这个时间必须和 transition 的 0.5s 保持一致
         } else {
-            // 普通切换：正常加索引
-            currentIndex++;
-            updateCarousel(false);
-            // 动画结束后解锁
             setTimeout(() => isAnimating = false, 500);
         }
     }
 
-    // 5. 上一张（修复反向无缝逻辑）
+    // 8. 上一张 (包含无缝拉回处理)
     function goToPrev() {
         if (isAnimating) return;
-        isAnimating = true; // 上锁
+        isAnimating = true;
 
-        // 第一张切最后一张：无缝逻辑
+        currentIndex--;
+        updateCarousel(false);
+
+        // 如果滑到了头部的【假尾图】
         if (currentIndex === 0) {
-            // 步骤1：瞬间切到假位置（无过渡）
-            updateCarousel(true);
-            carouselList.style.transform = `translateX(${singleWidth}%)`;
-            
-            // 步骤2：强制重绘后，滑到最后一张
             setTimeout(() => {
-                carouselList.style.transition = 'transform 0.5s ease';
-                currentIndex = itemCount - 1;
-                updateCarousel(false);
-                isAnimating = false; // 解锁
-            }, 10); // 10ms确保重绘完成
+                currentIndex = realCount; // 瞬间将索引改成【真尾图】
+                updateCarousel(true); // 无过渡拉回
+                isAnimating = false;
+            }, 500);
         } else {
-            // 普通切换：正常减索引
-            currentIndex--;
-            updateCarousel(false);
             setTimeout(() => isAnimating = false, 500);
         }
     }
 
-    // 6. 指示器点击（修复点击无响应）
-    function bindIndicatorEvent() {
-        indicatorItems.forEach((li, index) => {
-            li.addEventListener('click', function() {
-                if (isAnimating) return;
-                currentIndex = index;
-                updateCarousel(false); // 点击有过渡
-            });
+    // 9. 事件绑定
+    nextBtn.addEventListener('click', goToNext);
+    prevBtn.addEventListener('click', goToPrev);
+
+    indicatorItems.forEach((li, index) => {
+        li.addEventListener('click', () => {
+            if (isAnimating) return;
+            currentIndex = index + 1; // 小圆点从0开始，对应真实的索引需 +1
+            updateCarousel(false);
         });
-    }
+    });
 
-    // 7. 自动播放（修复定时器叠加）
-    function startAutoPlay() {
-        // 先清旧定时器，避免叠加
+    // 10. 悬停停止/恢复轮播
+    carouselArea.addEventListener('mouseenter', () => {
         if (autoPlayTimer) clearInterval(autoPlayTimer);
+    });
+    carouselArea.addEventListener('mouseleave', () => {
         autoPlayTimer = setInterval(goToNext, autoPlayInterval);
-    }
+    });
 
-    // 8. 暂停自动播放
-    function stopAutoPlay() {
-        if (autoPlayTimer) clearInterval(autoPlayTimer);
-    }
-
-    // 9. 鼠标悬停/离开（修复暂停/恢复）
-    function bindHoverEvent() {
-        carouselArea.addEventListener('mouseenter', stopAutoPlay);
-        carouselArea.addEventListener('mouseleave', startAutoPlay);
-    }
-
-    // 10. 初始化（修复事件绑定顺序）
-    function initCarousel() {
-        // 先初始化位置（确保页面加载就显示第一张）
-        updateCarousel(false);
-        // 绑定按钮事件
-        prevBtn.addEventListener('click', goToPrev);
-        nextBtn.addEventListener('click', goToNext);
-        // 绑定指示器
-        bindIndicatorEvent();
-        // 绑定悬停
-        bindHoverEvent();
-        // 启动自动播放
-        startAutoPlay();
-    }
-
-    // 执行初始化（必执行）
-    initCarousel();
+    // 11. 启动！
+    autoPlayTimer = setInterval(goToNext, autoPlayInterval);
 });
