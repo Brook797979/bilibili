@@ -8,6 +8,7 @@
     <link rel="icon" href="./favicon.ico">
     <link rel="stylesheet" href="./css/index.css">
     <link rel="stylesheet" href="./css/live.css">
+    <link rel="stylesheet" href="./css/anime.css">
     <script src="./js/carousel.js" defer></script>
     <script src="./js/interactive.js" defer></script>
 </head>
@@ -32,16 +33,22 @@
                     <a href="/" class="entry-title"><span>下载客户端</span></a>
                 </li>
             </ul>
-            <div class="center-search-container">
-                <!-- 左侧输入框 -->
-                <div class="nav-search-content">
-                    <input type="text" class="nav-search-input">
-                </div>
-                <!-- 右侧按钮 -->
-                <div class="nav-search-button">
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M16.3451 15.2003C16.6377 15.4915 16.4752 15.772 16.1934 16.0632C16.15 16.1279 16.0958 16.1818 16.0525 16.2249C15.7707 16.473 15.4456 16.624 15.1854 16.3652L11.6848 12.8815C10.4709 13.8198 8.97529 14.3267 7.44714 14.3267C3.62134 14.3267 0.5 11.2314 0.5 7.41337C0.5 3.60616 3.6105 0.5 7.44714 0.5C11.2729 0.5 14.3943 3.59538 14.3943 7.41337C14.3943 8.98802 13.8524 10.5087 12.8661 11.7383L16.3451 15.2003ZM2.13647 7.4026C2.13647 10.3146 4.52083 12.6766 7.43624 12.6766C10.3517 12.6766 12.736 10.3146 12.736 7.4026C12.736 4.49058 10.3517 2.1286 7.43624 2.1286C4.50999 2.1286 2.13647 4.50136 2.13647 7.4026Z" fill="currentColor"></path></svg>
-                </div>
+        <div class="center-search-container">
+            <input type="text" class="search-input" placeholder="输入搜索内容...">
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+            
+            <div class="search-suggestions">
+                <div class="suggest-header">bilibili 热搜</div>
+                <ul class="suggest-list">
+                    <li><span class="hot-rank top">1</span>春晚精彩混剪</li>
+                    <li><span class="hot-rank top">2</span>黑神话悟空最新实机</li>
+                    <li><span class="hot-rank top">3</span>考研国家线公布</li>
+                    <li><span class="hot-rank">4</span>半导体行业巨变</li>
+                    <li><span class="hot-rank">5</span>今天吃什么</li>
+                    <li><span class="hot-rank">6</span>周末去哪儿</li>
+                </ul>
             </div>
+        </div>
             <ul class="right-entry">
                 <li class="header-avatar">
                     <a href="/">
@@ -823,17 +830,17 @@
                 <div class="live-grid">
                     <div class="live-card">
                         <div class="live-cover">
-                            <img src="./images/rec/1.jpg" alt="live">
+                            <img src="./images/live/1.jpg" alt="live">
                             <div class="live-badge">LIVE</div>
                         </div>
                         <div class="live-info">
-                            <p class="live-title">【英雄联盟】今晚冲刺最强王者！</p>
-                            <p class="live-author">电竞小马达</p>
+                            <p class="live-title">【杀戮尖塔2】全进阶10轮着打！</p>
+                            <p class="live-author">破碎的星光brkstar</p>
                         </div>
                     </div>
                     <div class="live-card">
                         <div class="live-cover">
-                            <img src="./images/rec/2.jpg" alt="live">
+                            <img src="./images/live/2.jpg" alt="live">
                             <div class="live-badge">LIVE</div>
                         </div>
                         <div class="live-info">
@@ -843,12 +850,42 @@
                     </div>
                     <div class="live-card">
                         <div class="live-cover">
-                            <img src="./images/rec/3.jpg" alt="live">
+                            <img src="./images/live/3.jpg" alt="live">
                             <div class="live-badge">LIVE</div>
                         </div>
                         <div class="live-info">
                             <p class="live-title">户外探险：废弃游乐园大冒险</p>
                             <p class="live-author">胆大包天</p>
+                        </div>
+                    </div>
+                    <div class="live-card">
+                        <div class="live-cover">
+                            <img src="./images/live/4.jpg" alt="live">
+                            <div class="live-badge">LIVE</div>
+                        </div>
+                        <div class="live-info">
+                            <p class="live-title">【英雄联盟】今晚冲刺最强王者！</p>
+                            <p class="live-author">电竞小马达</p>
+                        </div>
+                    </div>
+                    <div class="live-card">
+                        <div class="live-cover">
+                            <img src="./images/live/5.jpg" alt="live">
+                            <div class="live-badge">LIVE</div>
+                        </div>
+                        <div class="live-info">
+                            <p class="live-title">实时星空！一起来聊天许愿吧</p>
+                            <p class="live-author">时雨二号机</p>
+                        </div>
+                    </div>
+                    <div class="live-card">
+                        <div class="live-cover">
+                            <img src="./images/live/6.jpg" alt="live">
+                            <div class="live-badge">LIVE</div>
+                        </div>
+                        <div class="live-info">
+                            <p class="live-title">僵尸搜打撤？《纳克园: 最后的乐园 》！</p>
+                            <p class="live-author">影佑</p>
                         </div>
                     </div>
                 </div>
@@ -867,7 +904,113 @@
                     <li><span class="rank">4</span><a href="#">你从未见过的深海生物大盘点</a></li>
                     <li><span class="rank">5</span><a href="#">一顿饭吃掉一整头牛是什么体验？</a></li>
                     <li><span class="rank">6</span><a href="#">【硬核科普】量子计算机如何改变世界</a></li>
+                    <li><span class="rank">7</span><a href="#">一口气看完喜鹊谋杀案</a></li>
+                    <li><span class="rank">8</span><a href="#">新赛季F1车队车手详解</a></li>
+                    <li><span class="rank">9</span><a href="#">《他们说来KK园区过年，我就来了》</a></li>
+                    <li><span class="rank">10</span><a href="#">曹丕：世子之争素来如此</a></li>
                 </ul>
+            </div>
+        </div>
+        <div class="anime-container">
+            <div class="section-header">
+                <div class="header-title">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M19 4H5c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-5 14H5v-4h9v4zm0-6H5V8h9v4zm5 6h-4V8h4v10z" fill="#00aeec"/></svg>
+                    <h2>番剧动态</h2>
+                </div>
+                <!-- <div class="anime-timeline">
+                    <span class="active">最新</span>
+                    <span>一</span>
+                    <span>二</span>
+                    <span>三</span>
+                    <span>四</span>
+                    <span>五</span>
+                    <span>六</span>
+                    <span>日</span>
+                </div> -->
+            </div>
+            <div class="anime-grid">
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/1.webp" alt="anime">
+                        <div class="anime-mask">
+                            <span class="play-icon">▶</span>
+                        </div>
+                    </div>
+                    <p class="anime-title">葬送的芙莉莲</p>
+                    <p class="anime-desc">更新至第28话</p>
+                </div>
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/2.webp" alt="anime">
+                        <div class="anime-mask"><span class="play-icon">▶</span></div>
+                    </div>
+                    <p class="anime-title">咒术回战 第二季</p>
+                    <p class="anime-desc">全47话</p>
+                </div>
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/3.webp" alt="anime">
+                        <div class="anime-mask"><span class="play-icon">▶</span></div>
+                    </div>
+                    <p class="anime-title">间谍过家家</p>
+                    <p class="anime-desc">更新至第37话</p>
+                </div>
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/4.webp" alt="anime">
+                        <div class="anime-mask"><span class="play-icon">▶</span></div>
+                    </div>
+                    <p class="anime-title">迷宫饭</p>
+                    <p class="anime-desc">更新至第12话</p>
+                </div>
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/5.webp" alt="anime">
+                        <div class="anime-mask"><span class="play-icon">▶</span></div>
+                    </div>
+                    <p class="anime-title">鬼灭之刃 柱训练篇</p>
+                    <p class="anime-desc">即将开播</p>
+                </div>
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/6.webp" alt="anime">
+                        <div class="anime-mask"><span class="play-icon">▶</span></div>
+                    </div>
+                    <p class="anime-title">正相反的你与我</p>
+                    <p class="anime-desc">更新至第7话</p>
+                </div>
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/7.webp" alt="anime">
+                        <div class="anime-mask"><span class="play-icon">▶</span></div>
+                    </div>
+                    <p class="anime-title">判处勇者刑</p>
+                    <p class="anime-desc">更新至第9话</p>
+                </div>
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/8.webp" alt="anime">
+                        <div class="anime-mask"><span class="play-icon">▶</span></div>
+                    </div>
+                    <p class="anime-title">弹珠汽水瓶里的千岁同学 </p>
+                    <p class="anime-desc">更新至第10话</p>
+                </div>
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/9.webp" alt="anime">
+                        <div class="anime-mask"><span class="play-icon">▶</span></div>
+                    </div>
+                    <p class="anime-title">中二病也要谈恋爱</p>
+                    <p class="anime-desc">全13话</p>
+                </div>
+                <div class="anime-card">
+                    <div class="anime-cover">
+                        <img src="./images/anime/10.webp" alt="anime">
+                        <div class="anime-mask"><span class="play-icon">▶</span></div>
+                    </div>
+                    <p class="anime-title">紫罗兰永恒花园 </p>
+                    <p class="anime-desc">全14话</p>
+                </div>
             </div>
         </div>
     </div>
