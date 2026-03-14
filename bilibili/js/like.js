@@ -1,6 +1,6 @@
 const doubleClickTargets = document.querySelectorAll('.double-click-target');
     doubleClickTargets.forEach(target => {
-        target.addEventListener('dblclick', function(e) {标
+        target.addEventListener('dblclick', function(e) {
             const rect = target.getBoundingClientRect();
             const x = e.clientX - rect.left;
             const y = e.clientY - rect.top;
