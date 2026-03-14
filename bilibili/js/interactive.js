@@ -7,21 +7,13 @@ document.addEventListener('DOMContentLoaded', () => {
         themeToggleBtn.querySelector('.btn-text').textContent = isDark ? '日间' : '黑夜';
         themeToggleBtn.querySelector('span:first-child').textContent = isDark ? '☀️' : '🌙';
     });
-});
 
-document.addEventListener('DOMContentLoaded', () => {
-    // ======== 1. 搜索框灵动展开 & 热搜显示 ========
     const searchContainer = document.querySelector('.center-search-container');
     const searchInput = document.querySelector('.search-input');
-
     if (searchInput && searchContainer) {
-        // 获得焦点时：添加 is-active 类（触发 CSS 变宽和显示下拉框）
         searchInput.addEventListener('focus', () => {
             searchContainer.classList.add('is-active');
         });
-
-        // 失去焦点时：移除 is-active 类
-        // 用 setTimeout 是为了防止点击下拉热词时，下拉框瞬间消失导致点不到
         searchInput.addEventListener('blur', () => {
             setTimeout(() => {
                 searchContainer.classList.remove('is-active');
@@ -29,19 +21,50 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // ======== 2. 番剧时间线简单切换 (小点缀) ========
-    // const timelineSpans = document.querySelectorAll('.anime-timeline span');
-    // timelineSpans.forEach(span => {
-    //     span.addEventListener('click', (e) => {
-    //         // 移除所有 active
-    //         timelineSpans.forEach(s => s.classList.remove('active'));
-    //         // 给当前点击的加上 active
-    //         e.target.classList.add('active');
+    // ======== 4. 竖屏短片区域左右滑动交互 ========
+    const shortsTrack = document.getElementById('shortsTrack');
+    const prevBtn = document.querySelector('.shorts-prev');
+    const nextBtn = document.querySelector('.shorts-next');
+
+    if (shortsTrack && prevBtn && nextBtn) {
+        // 点击右箭头：向右滚动
+        nextBtn.addEventListener('click', () => {
+            // 获取单张卡片的宽度
+            const cardWidth = shortsTrack.querySelector('.short-card').offsetWidth;
+            const gap = 20; // 对应 CSS 中的 gap 值
+            // 每次滚动 两张卡片 的距离，提升效率
+            shortsTrack.scrollBy({ left: (cardWidth + gap) * 2, behavior: 'smooth' });
+        });
+
+        // 点击左箭头：向左滚动
+        prevBtn.addEventListener('click', () => {
+            const cardWidth = shortsTrack.querySelector('.short-card').offsetWidth;
+            const gap = 20;
+            shortsTrack.scrollBy({ left: -((cardWidth + gap) * 2), behavior: 'smooth' });
+        });
+        
+        // // 进阶优化：监听滚动位置，当滚到最左边或最右边时，隐藏对应的箭头
+        // shortsTrack.addEventListener('scroll', () => {
+        //     // 如果滚到了最左边
+        //     if (shortsTrack.scrollLeft <= 0) {
+        //         prevBtn.style.opacity = '0.3';
+        //         prevBtn.style.cursor = 'not-allowed';
+        //     } else {
+        //         prevBtn.style.opacity = '1';
+        //         prevBtn.style.cursor = 'pointer';
+        //     }
             
-    //         // 这里可以假装加载数据，给一个透明度闪烁动画
-    //         const grid = document.querySelector('.anime-grid');
-    //         grid.style.opacity = '0.5';
-    //         setTimeout(() => grid.style.opacity = '1', 200);
-    //     });
-    // });
+        //     // 如果滚到了最右边 (scrollWidth 减去 clientWidth 就是最大可滚动距离)
+        //     if (shortsTrack.scrollLeft + shortsTrack.clientWidth >= shortsTrack.scrollWidth - 1) {
+        //         nextBtn.style.opacity = '0.3';
+        //         nextBtn.style.cursor = 'not-allowed';
+        //     } else {
+        //         nextBtn.style.opacity = '1';
+        //         nextBtn.style.cursor = 'pointer';
+        //     }
+        // });
+        
+        // 初始化时触发一次判断，把左侧箭头变灰
+        shortsTrack.dispatchEvent(new Event('scroll'));
+    }
 });

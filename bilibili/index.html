@@ -9,8 +9,11 @@
     <link rel="stylesheet" href="./css/index.css">
     <link rel="stylesheet" href="./css/live.css">
     <link rel="stylesheet" href="./css/anime.css">
+    <link rel="stylesheet" href="./css/search.css">
+    <link rel="stylesheet" href="./css/short.css">
     <script src="./js/carousel.js" defer></script>
     <script src="./js/interactive.js" defer></script>
+    <script src="./js/like.js" defer></script>
 </head>
 <body>
     <!-- 头部 -->
@@ -1013,6 +1016,154 @@
                 </div>
             </div>
         </div>
-    </div>
+        <div class="shorts-container">
+            <div class="section-header">
+                <div class="header-title">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13 2.05v7.95h6l-8 12v-7.95H5l8-12z" fill="#ffb027"/></svg>
+                    <h2>竖屏短片</h2>
+                </div>
+                
+            </div>
+            
+            <div class="shorts-carousel-wrapper">
+                <button class="shorts-arrow shorts-prev">
+                    <svg viewBox="0 0 24 24"><path d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"/></svg>
+                </button>
+                
+            <div class="shorts-grid" id="shortsTrack">
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/1.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">沉浸式街头小吃制作，看饿了！</p>
+                            <p class="short-views">▷ 125万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/2.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">治愈系萌宠日常</p>
+                            <p class="short-views">▷ 89万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/3.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">十分钟教你学会后空翻</p>
+                            <p class="short-views">▷ 45万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/4.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">神仙级Cosplay大赏</p>
+                            <p class="short-views">▷ 210万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/5.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">这首BGM太好听了吧！</p>
+                            <p class="short-views">▷ 33万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/6.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">绝美自然风光混剪</p>
+                            <p class="short-views">▷ 67万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/7.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭·纯音乐 |“勇敢丰盛 自在如风”</p>
+                            <p class="short-views">▷ 11万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/8.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">不可思议的魔术揭秘</p>
+                            <p class="short-views">▷ 55万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/9.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">“一个普通的午后，为多年以后的恍惚留下了伏笔～”</p>
+                            <p class="short-views">▷ 55万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/10.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">到底是什么样的景，值得飞半个中国来看？</p>
+                            <p class="short-views">▷ 55万</p></div>
+                        </div>
+                    </div>
+                <div class="short-card double-click-target">
+                    <div class="short-cover"><img src="./images/shorts/11.jpg" alt="short" loading="lazy">
+                        <div class="short-info">
+                            <p class="short-title">“救赎之道，就在其中”</p>
+                            <p class="short-views">▷ 55万</p></div>
+                        </div>
+                    </div>
+                </div>
+               
+                <button class="shorts-arrow shorts-next">
+                    <svg viewBox="0 0 24 24"><path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"/></svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="must-watch-container">
+            <div class="section-header">
+                <div class="header-title">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="#f3a034"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
+                    <h2>入站必刷</h2>
+                    <span class="header-subtitle">那些刻进DNA的经典名场面</span>
+                </div>
+                <a href="/" class="header-more">更多高能 ></a>
+            </div>
+            
+            <div class="must-watch-grid focus-group">
+                <div class="watch-card large-card focus-item double-click-target">
+                    <img src="./images/like/1.jpg" alt="must-watch">
+                    <div class="watch-info">
+                        <div class="badge">镇站之宝</div>
+                        <h3>【猛男版】新宝岛</h3>
+                        <p>播放量 1.2亿 · 弹幕 150万</p>
+                    </div>
+                </div>
+                <div class="watch-card small-card focus-item double-click-target">
+                    <img src="./images/like/2.jpg" alt="must-watch">
+                    <div class="watch-info">
+                        <h3>让子弹飞（全集）</h3>
+                        <p>9.9分 神作</p>
+                    </div>
+                </div>
+                <div class="watch-card small-card focus-item double-click-target">
+                    <img src="./images/like/3.jpg" alt="must-watch">
+                    <div class="watch-info">
+                        <h3>大威天龙！！</h3>
+                        <p>经典鬼畜</p>
+                    </div>
+                </div>
+                <div class="watch-card small-card focus-item double-click-target">
+                    <img src="./images/like/4.jpg" alt="must-watch">
+                    <div class="watch-info">
+                        <h3>此男就是这么强帅狂</h3>
+                        <p>百万播放</p>
+                    </div>
+                </div>
+                <div class="watch-card small-card focus-item double-click-target">
+                    <img src="./images/like/5.jpg" alt="must-watch">
+                    <div class="watch-info">
+                        <h3>黑神话：悟空 首曝实机</h3>
+                        <p>现象级大作</p>
+                    </div>
+                </div>
+            </div>
+        </div>
 </body>
 </html>
