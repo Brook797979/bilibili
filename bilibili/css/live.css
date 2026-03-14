@@ -101,8 +101,14 @@
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    transition: color 0.2s;
+    display: inline-block;      
+    transition: all 0.3s ease;  
+    transform-origin: left center; 
 }
-.ranking-list a:hover {
-    color: #00aeec; 
+
+.ranking-list li:hover a {
+    color: #00aeec;            
+    transform: scale(1.05);     
 }
+
+ 

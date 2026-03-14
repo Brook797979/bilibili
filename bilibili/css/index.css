@@ -325,6 +325,11 @@ body.dark-theme .right-ranking-area, body.dark-theme .left-live-area { backgroun
     width: 100%;
     height: 100%;
     object-fit: cover; 
+    transition: transform 0.3s ease;
+}
+
+.main .recommended-card:hover .card-image img {
+    transform: scale(1.05);
 }
 
 .card-image .image-mask {

@@ -1,14 +1,8 @@
 .center-search-container {
     position: relative;
-    max-width: 550px; /* 1. 固定最大宽度（取原is-active的550px，取消宽度变化） */
-    /* 2. 删除宽度过渡动画：transition: max-width 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); */
-    background-color: #fff; /* 3. 固定背景色（原is-active的样式提前生效，取消动态变化） */
-    border-color: #c9ccd0; /* 4. 固定边框色（同上） */
-}
-
-/* 5. 清空is-active对宽度/背景/边框的修改（保留热搜显示的逻辑） */
-.center-search-container.is-active {
-    /* 移除所有宽度、背景、边框相关样式，仅保留热搜显示的触发 */
+    max-width: 550px; 
+    background-color: #fff; 
+    border-color: #c9ccd0; 
 }
 
 .search-input {
@@ -43,7 +37,6 @@
     z-index: 999;
 }
 
-/* 保留：is-active仍触发热搜下拉框显示（避免热搜消失） */
 .center-search-container.is-active .search-suggestions {
     opacity: 1;
     visibility: visible;
