@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/t3AbAKTBkM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\新建文件夹\\NoBadConflicts v1.11\\胡文杰\\NoBadConflicts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

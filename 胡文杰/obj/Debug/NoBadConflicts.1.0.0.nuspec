@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NoBadConflicts</id>
+    <version>1.0.0</version>
+    <authors>NoBadConflicts</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Raylib-cs" version="7.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net8.0/ASSET/8_bit_negative_long.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/8_bit_positive_long.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/belch_1.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/belch_2.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/belch_3.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/foley_footstep_gravel_1.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/foley_footstep_gravel_2.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/foley_footstep_gravel_3.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/foley_footstep_gravel_4.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/pencil_eraser.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/pop_1.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/pop_2.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/pop_3.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/pop_4.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/sci_fi_error.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/sci_fi_hover.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/sci_fi_hover_high.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/select_1.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/select_2.wav" buildAction="Content" />
+      <files include="any/net8.0/ASSET/snap.wav" buildAction="Content" />
+      <files include="any/net8.0/STKAITI.TTF" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\C project\NoBadConflicts\bin\Debug\net8.0\NoBadConflicts.runtimeconfig.json" target="lib\net8.0\NoBadConflicts.runtimeconfig.json" />
+    <file src="D:\C project\NoBadConflicts\bin\Debug\net8.0\NoBadConflicts.dll" target="lib\net8.0\NoBadConflicts.dll" />
+    <file src="D:\C project\NoBadConflicts\ASSET\8_bit_negative_long.wav" target="content\ASSET\8_bit_negative_long.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\8_bit_negative_long.wav" target="contentFiles\any\net8.0\ASSET\8_bit_negative_long.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\8_bit_positive_long.wav" target="content\ASSET\8_bit_positive_long.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\8_bit_positive_long.wav" target="contentFiles\any\net8.0\ASSET\8_bit_positive_long.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\belch_1.wav" target="content\ASSET\belch_1.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\belch_1.wav" target="contentFiles\any\net8.0\ASSET\belch_1.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\belch_2.wav" target="content\ASSET\belch_2.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\belch_2.wav" target="contentFiles\any\net8.0\ASSET\belch_2.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\belch_3.wav" target="content\ASSET\belch_3.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\belch_3.wav" target="contentFiles\any\net8.0\ASSET\belch_3.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\foley_footstep_gravel_1.wav" target="content\ASSET\foley_footstep_gravel_1.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\foley_footstep_gravel_1.wav" target="contentFiles\any\net8.0\ASSET\foley_footstep_gravel_1.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\foley_footstep_gravel_2.wav" target="content\ASSET\foley_footstep_gravel_2.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\foley_footstep_gravel_2.wav" target="contentFiles\any\net8.0\ASSET\foley_footstep_gravel_2.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\foley_footstep_gravel_3.wav" target="content\ASSET\foley_footstep_gravel_3.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\foley_footstep_gravel_3.wav" target="contentFiles\any\net8.0\ASSET\foley_footstep_gravel_3.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\foley_footstep_gravel_4.wav" target="content\ASSET\foley_footstep_gravel_4.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\foley_footstep_gravel_4.wav" target="contentFiles\any\net8.0\ASSET\foley_footstep_gravel_4.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pencil_eraser.wav" target="content\ASSET\pencil_eraser.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pencil_eraser.wav" target="contentFiles\any\net8.0\ASSET\pencil_eraser.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pop_1.wav" target="content\ASSET\pop_1.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pop_1.wav" target="contentFiles\any\net8.0\ASSET\pop_1.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pop_2.wav" target="content\ASSET\pop_2.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pop_2.wav" target="contentFiles\any\net8.0\ASSET\pop_2.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pop_3.wav" target="content\ASSET\pop_3.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pop_3.wav" target="contentFiles\any\net8.0\ASSET\pop_3.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pop_4.wav" target="content\ASSET\pop_4.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\pop_4.wav" target="contentFiles\any\net8.0\ASSET\pop_4.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\sci_fi_error.wav" target="content\ASSET\sci_fi_error.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\sci_fi_error.wav" target="contentFiles\any\net8.0\ASSET\sci_fi_error.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\sci_fi_hover.wav" target="content\ASSET\sci_fi_hover.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\sci_fi_hover.wav" target="contentFiles\any\net8.0\ASSET\sci_fi_hover.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\sci_fi_hover_high.wav" target="content\ASSET\sci_fi_hover_high.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\sci_fi_hover_high.wav" target="contentFiles\any\net8.0\ASSET\sci_fi_hover_high.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\select_1.wav" target="content\ASSET\select_1.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\select_1.wav" target="contentFiles\any\net8.0\ASSET\select_1.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\select_2.wav" target="content\ASSET\select_2.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\select_2.wav" target="contentFiles\any\net8.0\ASSET\select_2.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\snap.wav" target="content\ASSET\snap.wav" />
+    <file src="D:\C project\NoBadConflicts\ASSET\snap.wav" target="contentFiles\any\net8.0\ASSET\snap.wav" />
+    <file src="D:\C project\NoBadConflicts\STKAITI.TTF" target="content\STKAITI.TTF" />
+    <file src="D:\C project\NoBadConflicts\STKAITI.TTF" target="contentFiles\any\net8.0\STKAITI.TTF" />
+  </files>
+</package>

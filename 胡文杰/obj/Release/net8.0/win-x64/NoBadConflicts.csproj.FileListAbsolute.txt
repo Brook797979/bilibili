@@ -1,0 +1,678 @@
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\NoBadConflicts.exe
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\NoBadConflicts.deps.json
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\NoBadConflicts.runtimeconfig.json
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\NoBadConflicts.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\NoBadConflicts.pdb
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\Raylib-cs.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\raylib.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.AppContext.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Buffers.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Collections.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Configuration.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Console.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Core.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Data.Common.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Data.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Drawing.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Globalization.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Linq.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Memory.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.Http.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.Security.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Net.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Numerics.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Reflection.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Runtime.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Security.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Text.Json.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Threading.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Transactions.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Web.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Windows.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.Xml.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\WindowsBase.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\mscorlib.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\netstandard.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\clretwrc.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\clrgc.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\clrjit.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\coreclr.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\createdump.exe
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\hostfxr.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\hostpolicy.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\mscordaccore.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.2225.52707.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\mscordbi.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\mscorrc.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\msquic.dll
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\NoBadConflicts.csproj.AssemblyReference.cache
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\NoBadConflicts.GeneratedMSBuildEditorConfig.editorconfig
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\NoBadConflicts.AssemblyInfoInputs.cache
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\NoBadConflicts.AssemblyInfo.cs
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\NoBadConflicts.csproj.CoreCompileInputs.cache
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\NoBadCon.556C7B3B.Up2Date
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\NoBadConflicts.dll
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\refint\NoBadConflicts.dll
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\NoBadConflicts.pdb
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\NoBadConflicts.genruntimeconfig.cache
+D:\C project\NoBadConflicts\obj\Release\net8.0\win-x64\ref\NoBadConflicts.dll
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\STKAITI.TTF
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\8_bit_negative_long.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\8_bit_positive_long.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\belch_1.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\belch_2.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\belch_3.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\foley_footstep_gravel_1.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\foley_footstep_gravel_2.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\foley_footstep_gravel_3.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\foley_footstep_gravel_4.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\pencil_eraser.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\pop_1.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\pop_2.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\pop_3.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\pop_4.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\sci_fi_error.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\sci_fi_hover.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\sci_fi_hover_high.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\select_1.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\select_2.wav
+D:\C project\NoBadConflicts\bin\Release\net8.0\win-x64\ASSET\snap.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\8_bit_negative_long.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\8_bit_positive_long.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\belch_1.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\belch_2.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\belch_3.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\foley_footstep_gravel_1.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\foley_footstep_gravel_2.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\foley_footstep_gravel_3.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\foley_footstep_gravel_4.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\gurgling.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\pencil_eraser.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\pop_1.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\pop_2.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\pop_3.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\pop_4.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\punch_3.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\sci_fi_error.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\sci_fi_hover.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\sci_fi_hover_high.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\select_1.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\select_2.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\ASSET\snap.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\NoBadConflicts.exe
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\STKAITI.TTF
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\NoBadConflicts.deps.json
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\NoBadConflicts.runtimeconfig.json
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\Raylib-cs.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\raylib.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.AppContext.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Buffers.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Collections.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Configuration.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Console.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Core.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Data.Common.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Data.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Drawing.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Globalization.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Linq.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Memory.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.Http.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.Security.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Net.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Numerics.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Reflection.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Runtime.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Security.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Text.Json.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Threading.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Transactions.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Web.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Windows.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.Xml.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\WindowsBase.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\mscorlib.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\netstandard.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\clretwrc.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\clrgc.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\clrjit.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\coreclr.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\createdump.exe
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\hostfxr.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\hostpolicy.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\mscordaccore.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.2225.52707.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\mscordbi.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\mscorrc.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Release\net8.0\win-x64\msquic.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\NoBadConflicts.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\NoBadConflicts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\NoBadConflicts.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\NoBadConflicts.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\NoBadConflicts.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\NoBadCon.556C7B3B.Up2Date
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\refint\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\NoBadConflicts.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Release\net8.0\win-x64\ref\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\ArmyParas.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\n3.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\n2.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\n1.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\Test.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\8_bit_negative_long.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\8_bit_positive_long.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\belch_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\belch_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\belch_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\foley_footstep_gravel_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\foley_footstep_gravel_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\foley_footstep_gravel_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\foley_footstep_gravel_4.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\gurgling.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\pencil_eraser.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\pop_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\pop_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\pop_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\pop_4.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\punch_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\sci_fi_error.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\sci_fi_hover.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\sci_fi_hover_high.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\select_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\select_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Sounds\snap.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\NoBadConflicts.exe
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\STKAITI.TTF
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\NoBadConflicts.deps.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\NoBadConflicts.runtimeconfig.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\Raylib-cs.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\raylib.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.AppContext.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Buffers.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Collections.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Configuration.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Console.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Core.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Data.Common.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Data.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Drawing.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Globalization.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Linq.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Memory.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.Http.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.Security.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Net.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Numerics.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Reflection.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Runtime.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Security.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Text.Json.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Threading.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Transactions.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Web.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Windows.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.Xml.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\WindowsBase.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\mscorlib.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\netstandard.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\clretwrc.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\clrgc.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\clrjit.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\coreclr.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\createdump.exe
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\hostfxr.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\hostpolicy.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\mscordaccore.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.2225.52707.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\mscordbi.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\mscorrc.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\msquic.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\NoBadConflicts.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\NoBadConflicts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\NoBadConflicts.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\NoBadConflicts.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\NoBadConflicts.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\NoBadCon.556C7B3B.Up2Date
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\refint\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\NoBadConflicts.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Release\net8.0\win-x64\ref\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\n6.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\n5.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\n4_4.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\n4_3.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\n4_2.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Release\net8.0\win-x64\ASSET\Json\Con_Map\n4_1.json
