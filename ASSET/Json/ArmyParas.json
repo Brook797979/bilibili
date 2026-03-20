@@ -1,0 +1,95 @@
+[
+  {
+    "id": "A01",
+    "name": "野蛮人",
+    "description": "基本近战部队",
+    "maxHealth": 120,
+    "attackPower": 40,
+    "attackRange": 2.0,
+    "attackInterval": 1.2,
+    "moveSpeed": 30.0,
+    "size": 10,
+    "weight": 1.0,
+    "color": "FDF900FF"
+  },
+  {
+    "id": "A02",
+    "name": "弓箭手",
+    "description": "基本远程部队",
+    "maxHealth": 70,
+    "attackPower": 30,
+    "attackRange": 70.0,
+    "attackInterval": 1.0,
+    "moveSpeed": 36.0,
+    "size": 8,
+    "weight": 0.6,
+    "color": "FF6DC2FF"
+  },
+  {
+    "id": "A03",
+    "name": "巨人",
+    "description": "高生命值的近战部队",
+    "maxHealth": 1200,
+    "attackPower": 100,
+    "attackRange": 3.5,
+    "attackInterval": 2.5,
+    "moveSpeed": 22.0,
+    "size": 14,
+    "weight": 2.0,
+    "color": "7F6A4FFF"
+  },
+  {
+    "id": "A04",
+    "name": "皮卡超人",
+    "description": "高属性的近战部队",
+    "maxHealth": 1200,
+    "attackPower": 900,
+    "attackRange": 3.5,
+    "attackInterval": 2.2,
+    "moveSpeed": 22.0,
+    "size": 14,
+    "weight": 2.0,
+    "color": "873CBEFF"
+  },
+  {
+    "id": "A05",
+    "name": "戈仑石人",
+    "description": "极高生命值的近战部队",
+    "maxHealth": 12000,
+    "attackPower": 1000,
+    "attackRange": 3.5,
+    "attackInterval": 3.5,
+    "moveSpeed": 16.0,
+    "size": 20,
+    "weight": 5.0,
+    "color": "505050FF"
+  },
+  {
+    "id": "A06",
+    "name": "炸弹人",
+    "description": "自爆式攻击的近战部队",
+    "maxHealth": 60,
+    "attackPower": 350,
+    "attackRange": 1.0,
+    "attackInterval": 0.1,
+    "moveSpeed": 75.0,
+    "size": 8,
+    "weight": 0.4,
+    "color": "EEEEEEFF"
+  },
+  {
+    "id": "A07",
+    "name": "法师",
+    "description": "高属性的远程部队",
+    "maxHealth": 210,
+    "attackPower": 300,
+    "attackRange": 60.0,
+    "attackInterval": 1.6,
+    "moveSpeed": 30.0,
+    "size": 10,
+    "weight": 1.0,
+    "color": "0079F1FF"
+  }
+
+]
+
