@@ -1,0 +1,249 @@
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadConflicts.csproj.AssemblyReference.cache
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadConflicts.GeneratedMSBuildEditorConfig.editorconfig
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadConflicts.AssemblyInfoInputs.cache
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadConflicts.AssemblyInfo.cs
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadConflicts.csproj.CoreCompileInputs.cache
+D:\C project\NoBadConflicts\bin\Debug\net8.0\NoBadConflicts.exe
+D:\C project\NoBadConflicts\bin\Debug\net8.0\NoBadConflicts.deps.json
+D:\C project\NoBadConflicts\bin\Debug\net8.0\NoBadConflicts.runtimeconfig.json
+D:\C project\NoBadConflicts\bin\Debug\net8.0\NoBadConflicts.dll
+D:\C project\NoBadConflicts\bin\Debug\net8.0\NoBadConflicts.pdb
+D:\C project\NoBadConflicts\bin\Debug\net8.0\Raylib-cs.dll
+D:\C project\NoBadConflicts\bin\Debug\net8.0\runtimes\win-x86\native\raylib.dll
+D:\C project\NoBadConflicts\bin\Debug\net8.0\runtimes\linux-x64\native\libraylib.so
+D:\C project\NoBadConflicts\bin\Debug\net8.0\runtimes\osx-arm64\native\libraylib.dylib
+D:\C project\NoBadConflicts\bin\Debug\net8.0\runtimes\osx-x64\native\libraylib.dylib
+D:\C project\NoBadConflicts\bin\Debug\net8.0\runtimes\win-x64\native\raylib.dll
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadCon.556C7B3B.Up2Date
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadConflicts.dll
+D:\C project\NoBadConflicts\obj\Debug\net8.0\refint\NoBadConflicts.dll
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadConflicts.pdb
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadConflicts.genruntimeconfig.cache
+D:\C project\NoBadConflicts\obj\Debug\net8.0\ref\NoBadConflicts.dll
+D:\C project\NoBadConflicts\bin\Debug\net8.0\STKAITI.TTF
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\foley_footstep_gravel_1.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\foley_footstep_gravel_2.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\foley_footstep_gravel_3.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\foley_footstep_gravel_4.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\belch_1.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\belch_2.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\belch_3.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\pencil_eraser.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\snap.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\8_bit_negative_long.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\8_bit_positive_long.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\pop_1.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\pop_2.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\pop_3.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\pop_4.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\sci_fi_error.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\select_1.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\select_2.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\sci_fi_hover.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\sci_fi_hover_high.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\punch_3.wav
+D:\C project\NoBadConflicts\bin\Debug\net8.0\ASSET\gurgling.wav
+D:\C project\NoBadConflicts\obj\Debug\net8.0\NoBadConflicts.sourcelink.json
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\8_bit_negative_long.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\8_bit_positive_long.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\belch_1.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\belch_2.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\belch_3.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\foley_footstep_gravel_1.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\foley_footstep_gravel_2.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\foley_footstep_gravel_3.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\foley_footstep_gravel_4.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\gurgling.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\pencil_eraser.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\pop_1.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\pop_2.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\pop_3.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\pop_4.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\punch_3.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\sci_fi_error.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\sci_fi_hover.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\sci_fi_hover_high.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\select_1.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\select_2.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\snap.wav
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.exe
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\STKAITI.TTF
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.deps.json
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.runtimeconfig.json
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\Raylib-cs.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\win-x64\native\raylib.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\win-x86\native\raylib.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadCon.556C7B3B.Up2Date
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\refint\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\资源\NoBadConflicts v0.05\obj\Debug\net8.0\ref\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\refint\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.exe
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\STKAITI.TTF
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.deps.json
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.runtimeconfig.json
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\Raylib-cs.dll
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\win-x64\native\raylib.dll
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\runtimes\win-x86\native\raylib.dll
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadCon.556C7B3B.Up2Date
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\NoBadConflicts.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\obj\Debug\net8.0\ref\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\8_bit_negative_long.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\8_bit_positive_long.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\belch_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\belch_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\belch_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_4.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\gurgling.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\pencil_eraser.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\pop_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\pop_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\pop_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\pop_4.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\punch_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\sci_fi_error.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\sci_fi_hover.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\sci_fi_hover_high.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\select_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\select_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Sounds\snap.wav
+C:\Users\lenovo\Desktop\NoBadConflicts v0.05\bin\Debug\net8.0\ASSET\Json\ArmyParas.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\ArmyParas.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\8_bit_negative_long.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\8_bit_positive_long.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\belch_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\belch_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\belch_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_4.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\gurgling.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\pencil_eraser.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\pop_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\pop_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\pop_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\pop_4.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\punch_3.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\sci_fi_error.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\sci_fi_hover.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\sci_fi_hover_high.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\select_1.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\select_2.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Sounds\snap.wav
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\NoBadConflicts.exe
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\STKAITI.TTF
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\NoBadConflicts.deps.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\NoBadConflicts.runtimeconfig.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\Raylib-cs.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\runtimes\win-x64\native\raylib.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\runtimes\win-x86\native\raylib.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\NoBadConflicts.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\NoBadConflicts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\NoBadConflicts.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\NoBadConflicts.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\NoBadConflicts.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\NoBadCon.556C7B3B.Up2Date
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\refint\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\NoBadConflicts.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\NoBadConflicts开发\obj\Debug\net8.0\ref\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\Test.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\n1.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\n2.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\n3.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\n4_4.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\n4_3.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\n4_2.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\n4_1.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\n5.json
+C:\Users\lenovo\Desktop\NoBadConflicts开发\bin\Debug\net8.0\ASSET\Json\Con_Map\n6.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\n6.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\n5.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\n4_4.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\n4_3.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\n4_2.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\n4_1.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\n3.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\n2.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\n1.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\Con_Map\Test.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\8_bit_negative_long.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\8_bit_positive_long.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\belch_1.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\belch_2.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\belch_3.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_1.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_2.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_3.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\foley_footstep_gravel_4.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\gurgling.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\pencil_eraser.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\pop_1.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\pop_2.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\pop_3.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\pop_4.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\punch_3.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\sci_fi_error.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\sci_fi_hover.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\sci_fi_hover_high.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\select_1.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\select_2.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Sounds\snap.wav
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\NoBadConflicts.exe
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\ASSET\Json\ArmyParas.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\STKAITI.TTF
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\NoBadConflicts.deps.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\NoBadConflicts.runtimeconfig.json
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\Raylib-cs.dll
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\runtimes\win-x64\native\raylib.dll
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\bin\Debug\net8.0\runtimes\win-x86\native\raylib.dll
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\NoBadConflicts.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\NoBadConflicts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\NoBadConflicts.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\NoBadConflicts.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\NoBadConflicts.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\NoBadCon.556C7B3B.Up2Date
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\refint\NoBadConflicts.dll
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\NoBadConflicts.pdb
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\NoBadConflicts.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\新建文件夹\NoBadConflicts v1.11\胡文杰\obj\Debug\net8.0\ref\NoBadConflicts.dll
