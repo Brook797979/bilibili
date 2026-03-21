@@ -28,7 +28,6 @@ document.addEventListener('DOMContentLoaded', () => {
         nextBtn.addEventListener('click', () => {
             const cardWidth = shortsTrack.querySelector('.short-card').offsetWidth;
             const gap = 20; 
-
             shortsTrack.scrollBy({ left: (cardWidth + gap) * 2, behavior: 'smooth' });
         });
 
@@ -37,8 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const gap = 20;
             shortsTrack.scrollBy({ left: -((cardWidth + gap) * 2), behavior: 'smooth' });
         });
-        
- 
         shortsTrack.dispatchEvent(new Event('scroll'));
     }
 });

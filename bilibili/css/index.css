@@ -146,6 +146,23 @@ body.dark-theme .right-ranking-area, body.dark-theme .left-live-area { backgroun
     margin-left: 10px;
 }
 
+.left-entry li, 
+.right-entry .header-avatar,
+.right-entry .right-entry-item,
+.right-entry .upload {
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transform-origin: center;
+    cursor: pointer;
+}
+
+.left-entry li:hover, 
+.right-entry .header-avatar:hover,
+.right-entry .right-entry-item:hover,
+.right-entry .upload:hover {
+    transform: scale(1.1);
+}
+
+
 .right-entry .upload span {
     margin-left: 5px;
 }
