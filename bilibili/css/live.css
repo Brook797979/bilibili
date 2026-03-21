@@ -70,9 +70,21 @@
     border-radius: 4px;
     font-weight: bold;
 }
-.live-info { padding-top: 10px; }
-.live-title { font-size: 15px; font-weight: 500; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
-.live-author { font-size: 13px; color: #9499a0; margin-top: 4px; }
+.live-info { 
+    padding-top: 10px; 
+}
+.live-title { 
+    font-size: 15px; 
+    font-weight: 500; 
+    overflow: hidden; 
+    white-space: nowrap; 
+    text-overflow: ellipsis; 
+}
+.live-author { 
+    font-size: 13px; 
+    color: #9499a0; 
+    margin-top: 4px; 
+}
 
 .ranking-list li {
     display: flex;

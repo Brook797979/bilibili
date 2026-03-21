@@ -2,10 +2,21 @@ body.dark-theme {
     background-color: #121212;
     color: #e3e5e7;
 }
-body.dark-theme .bili-channel .channel-items_left a { background-color: #2b2b2b; color: #c9ccd0; border-color: #333;}
-body.dark-theme .card-info h3, body.dark-theme .section-header h2, body.dark-theme .ranking-list a, body.dark-theme .anime-title{ color: #e3e5e7; }
-body.dark-theme .bili-channel { background-color: #18191c; }
-body.dark-theme .right-ranking-area, body.dark-theme .left-live-area { background-color: #121212; }
+body.dark-theme .bili-channel .channel-items_left a { 
+    background-color: #2b2b2b; 
+    color: #c9ccd0; 
+    border-color: #333;
+}
+
+body.dark-theme .card-info h3, body.dark-theme .section-header h2, body.dark-theme .ranking-list a, body.dark-theme .anime-title{ 
+    color: #e3e5e7; 
+}
+body.dark-theme .bili-channel { 
+    background-color: #18191c; 
+}
+body.dark-theme .right-ranking-area, body.dark-theme .left-live-area { 
+    background-color: #121212; 
+}
 
 .bili-nav {
     display: flex;
